@@ -1,0 +1,17 @@
+body{
+    background-color: #f52e6f;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#lista {
+    max-width: 1200px;;
+}
+
+li {
+    text-align: center;
+    line-height: 100px;
+    list-style: none;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
